@@ -1,1 +1,1 @@
-# DeepLearning-by-using-C-C-
+# I am studying making DeepLearning Code using GPU by C/C++
